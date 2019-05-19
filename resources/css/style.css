@@ -1,36 +1,50 @@
+/* styling elements site-wide */
 body {
   text-align: center;
   font-family: Helvetica;
   background-color: white;
 }
 
+/* styling for the top of page - background */
 .heading {
   background-image: url("../flatiron.png");
   background-size: cover;
   color: white;
 }
 
+/* styling for the top of page - heading */
 .heading h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
+/* styling for the top of page - nav bar */
 .topnav {
   font-size: 18px;
   color: white;
 }
 
+/* styling for process, work, team and contact */
 .info h2 {
   font-size: 32px;
   font-weight: bold;
 }
 
+/* styling for process, work, team and concact */
 .info h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
+/*styling for process, work, team and contact */
 .info p {
   font-size: 14px;
+}
+
+/* styling elements for the footer */
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
